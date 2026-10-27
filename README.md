@@ -1,1 +1,1 @@
-# Algorithm Practice
+# Algorithm Practice - Изменено на сайте GitHub
